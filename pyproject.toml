@@ -13,8 +13,8 @@ classifiers = [
 repository = "https://github.com/rominf/poetry-version"
 
 [tool.poetry.dependencies]
-python = "~2.7 || ^3.4"
-tomlkit = "^0.4.6 || ^0.5.0"
+python = "^3.4"
+tomlkit = "*"
 
 [tool.poetry.dev-dependencies]
 
