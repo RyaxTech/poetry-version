@@ -8,7 +8,7 @@ package_data = \
 {'': ['*']}
 
 install_requires = \
-['tomlkit>=0.4.6,<0.6.0']
+['tomlkit>0.6.0']
 
 setup_kwargs = {
     'name': 'poetry-version',
